@@ -1,0 +1,79 @@
+name: Publier les Reels Soirees Chartres 28
+
+# Robot Reels promo @soireeschartres28 (28/09/2026), copie du robot PSK.
+# checkout de la pointe, sauvegarde de l'etat avec rebase + 3 essais, bilan Telegram.
+
+on:
+  schedule:
+    # toutes les 30 min de 6h a 23h (heure de Paris, UTC+1/+2), minutes 7 et 37
+    - cron: "7,37 4-22 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulation (1 = ne publie rien)"
+        required: false
+        default: "0"
+      check_only:
+        description: "Test connexion (1 = verifie Page/IG puis stop)"
+        required: false
+        default: "0"
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Publier
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          CHECK_ONLY: ${{ github.event.inputs.check_only || '0' }}
+        run: python publish.py
+
+      - name: Sauvegarder l'etat
+        run: |
+          git config user.name "soirees28-reels"
+          git config user.email "noreply@velyria.fr"
+          if ! git diff --quiet schedule.json; then
+            git add schedule.json
+            git commit -m "etat: $(date -u +%Y-%m-%dT%H:%M)"
+            for i in 1 2 3; do
+              if git push; then exit 0; fi
+              echo "Push refuse (essai $i), rebase sur la pointe..."
+              git fetch origin main
+              git rebase -X theirs origin/main || { git rebase --abort; exit 1; }
+              sleep 5
+            done
+            exit 1
+          fi
+
+      - name: Bilan Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ETAT: ${{ job.status }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then exit 0; fi
+          BILAN="$(cat bilan.txt 2>/dev/null)"
+          if [ "$ETAT" != "success" ]; then
+            BILAN="ROBOT REELS SOIREES CHARTRES EN PANNE : les Reels ne partent plus.
+          https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          $BILAN"
+          fi
+          [ -z "$BILAN" ] && exit 0
+          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=Reels Soirees Chartres 28
+          $BILAN" \
+            -d "disable_web_page_preview=true" > /dev/null
