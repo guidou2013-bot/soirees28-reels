@@ -150,21 +150,21 @@
       "ig_done": true
     },
     {
-      "id": "2026-09-30-jardinier-post-v2",
+      "id": "2026-09-30-jardinier-post-v3",
       "titre": "Le jardinier de ces dames - post v2",
       "type": "image",
-      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-09-30-jardinier-post-v2.png",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-09-30-jardinier-post-v3.png",
       "caption": "Ciné-débat jeudi 1er octobre à 20h au cinéma Les Enfants du Paradis à Chartres : « Le jardinier de ces dames », documentaire de Stéphane Furrer, suivi d'un échange avec le réalisateur.\n\nDans un EHPAD du Loiret, Georges retrouve un nouvel élan grâce au jardinage et aux autres résidents. Un film optimiste, drôle et émouvant. Tarif unique 4 €.\n\nRéservation : https://chartres.cineparadis.fr/#showsession?id=emsx106000186411\n\n@lejardinierdecesdames\n\n#chartres #cinemachartres #documentaire #sortirachartres #chartres28 #eureetloir",
       "caption_fb": "Ciné-débat jeudi 1er octobre à 20h au cinéma Les Enfants du Paradis à Chartres : « Le jardinier de ces dames », documentaire de Stéphane Furrer, suivi d'un échange avec le réalisateur.\n\nDans un EHPAD du Loiret, Georges retrouve un nouvel élan grâce au jardinage et aux autres résidents. Un film optimiste, drôle et émouvant. Tarif unique 4 €.\n\nRéservation : https://chartres.cineparadis.fr/#showsession?id=emsx106000186411",
-      "quand": "2026-09-30T16:45",
+      "quand": "2026-09-30T16:40",
       "statut": "planifie"
     },
     {
-      "id": "2026-09-30-jardinier-story-v2",
+      "id": "2026-09-30-jardinier-story-v3",
       "titre": "Le jardinier de ces dames - story v2",
       "type": "story",
-      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-09-30-jardinier-story-v2.png",
-      "quand": "2026-09-30T16:45",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-09-30-jardinier-story-v3.png",
+      "quand": "2026-09-30T16:40",
       "statut": "planifie"
     }
   ]
