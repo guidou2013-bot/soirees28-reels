@@ -28,10 +28,19 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+
+      - name: Attendre l'heure du prochain post
+        if: github.event_name == 'schedule'
+        run: python attendre.py
+
+      - name: Recuperer la derniere version du planning
+        if: github.event_name == 'schedule'
+        run: git pull --rebase origin main
 
       - name: Publier
         env:
