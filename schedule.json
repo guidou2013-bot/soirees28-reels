@@ -225,6 +225,15 @@
       "caption": "Story Solara, QG Club, jeudi 22 octobre",
       "quand": "2026-10-19T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-22-solara-qg-club-story-rappel",
+      "titre": "Solara QG Club story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-22-solara-qg-club-story-rappel.jpg",
+      "caption": "Story Solara, QG Club, jeudi 22 octobre",
+      "quand": "2026-10-22T18:30",
+      "statut": "planifie"
     }
   ]
 }
