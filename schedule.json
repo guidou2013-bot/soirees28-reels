@@ -216,6 +216,15 @@
       "quand": "2026-10-19T19:00",
       "statut": "planifie",
       "caption_fb": "SOLARA, soirée house music au QG Club : jeudi 22 octobre, de 00h à 04h30.\n\nAux platines : G-Raw, Honesto et Nala.\n\nEntrée + 1 conso : 10 €. Avant 1h : entrée gratuite et conso à 5 €.\n\nQG Club, 1 rue de la République, 28300 Saint-Prest."
+    },
+    {
+      "id": "2026-10-19-solara-qg-club-story",
+      "titre": "Solara QG Club story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-19-solara-qg-club-story.jpg",
+      "caption": "Story Solara, QG Club, jeudi 22 octobre",
+      "quand": "2026-10-19T19:05",
+      "statut": "planifie"
     }
   ]
 }
