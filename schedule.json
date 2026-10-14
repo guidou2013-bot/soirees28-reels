@@ -261,6 +261,15 @@
       "caption": "Story Halloween, QG Club, samedi 31 octobre",
       "quand": "2026-10-28T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-31-halloween-qg-club-story-rappel",
+      "titre": "Halloween QG Club story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-halloween-qg-club-story-rappel.jpg",
+      "caption": "Story Halloween, QG Club, samedi 31 octobre",
+      "quand": "2026-10-31T18:30",
+      "statut": "planifie"
     }
   ]
 }
