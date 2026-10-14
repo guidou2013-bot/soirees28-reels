@@ -252,6 +252,15 @@
       "quand": "2026-10-28T19:00",
       "statut": "planifie",
       "caption_fb": "HALLOWEEN au QG Club : samedi 31 octobre, de 23h30 à 6h.\n\nAux platines et à la lumière : Nala et Niklaas.\n\nEntrée + 1 conso : 17 €. Prévente fortement conseillée.\n\nQG Club, 1 rue de la République, 28300 Saint-Prest."
+    },
+    {
+      "id": "2026-10-28-halloween-qg-club-story",
+      "titre": "Halloween QG Club story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-halloween-qg-club-story.jpg",
+      "caption": "Story Halloween, QG Club, samedi 31 octobre",
+      "quand": "2026-10-28T19:05",
+      "statut": "planifie"
     }
   ]
 }
