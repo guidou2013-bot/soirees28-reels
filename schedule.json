@@ -293,6 +293,15 @@
       "caption": "Story DJ Rosso, Chanzy Bar, vendredi 23 octobre",
       "quand": "2026-10-20T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-23-dj-rosso-chanzy-bar-story-rappel",
+      "titre": "dj-rosso-chanzy-bar story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-23-dj-rosso-chanzy-bar-story-rappel.jpg",
+      "caption": "Story DJ Rosso, Chanzy Bar, vendredi 23 octobre",
+      "quand": "2026-10-23T18:30",
+      "statut": "planifie"
     }
   ]
 }
