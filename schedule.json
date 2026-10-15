@@ -274,6 +274,16 @@
       "caption": "Story Halloween, QG Club, samedi 31 octobre",
       "quand": "2026-10-31T18:30",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-20-dj-rosso-chanzy-bar-post",
+      "titre": "dj-rosso-chanzy-bar post",
+      "type": "photo",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-20-dj-rosso-chanzy-bar-post.jpg",
+      "caption": "DJ Rosso : vendredi 23 octobre 2026.\n\nChanzy Bar.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #chanzybar",
+      "quand": "2026-10-20T19:00",
+      "statut": "planifie",
+      "caption_fb": "DJ Rosso : vendredi 23 octobre 2026.\n\nChanzy Bar."
     }
   ]
 }
