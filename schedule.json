@@ -323,6 +323,15 @@
       "caption": "Story Deep House Music, Le Chanzy, samedi 17 octobre",
       "quand": "2026-10-16T14:35",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-17-deep-house-music-le-chanzy-story-rappel",
+      "titre": "deep-house-music-le-chanzy story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-17-deep-house-music-le-chanzy-story-rappel.jpg",
+      "caption": "Story Deep House Music, Le Chanzy, samedi 17 octobre",
+      "quand": "2026-10-17T18:30",
+      "statut": "planifie"
     }
   ]
 }
