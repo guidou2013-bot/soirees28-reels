@@ -350,6 +350,15 @@
       "quand": "2026-10-16T20:30",
       "statut": "planifie",
       "caption_fb": "Karaoké surprise : vendredi 16 octobre.\n\nCe soir."
+    },
+    {
+      "id": "2026-10-16-karaoke-surprise-story",
+      "titre": "karaoke-surprise story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-16-karaoke-surprise-story.jpg",
+      "caption": "Story Karaoké surprise, vendredi 16 octobre",
+      "quand": "2026-10-16T20:35",
+      "statut": "planifie"
     }
   ]
 }
