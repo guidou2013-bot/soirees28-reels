@@ -304,6 +304,16 @@
       "caption": "Story DJ Rosso, Chanzy Bar, vendredi 23 octobre",
       "quand": "2026-10-23T18:30",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-16-deep-house-music-le-chanzy-post",
+      "titre": "deep-house-music-le-chanzy post",
+      "type": "photo",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-16-deep-house-music-le-chanzy-post.jpg",
+      "caption": "Deep House Music au Le Chanzy : samedi 17 octobre, à partir de 21h.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #lechanzy",
+      "quand": "2026-10-16T14:30",
+      "statut": "planifie",
+      "caption_fb": "Deep House Music au Le Chanzy : samedi 17 octobre, à partir de 21h."
     }
   ]
 }
