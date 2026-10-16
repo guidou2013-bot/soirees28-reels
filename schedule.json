@@ -312,8 +312,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-16-deep-house-music-le-chanzy-post.jpg",
       "caption": "Deep House Music au Le Chanzy : samedi 17 octobre, à partir de 21h.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #lechanzy",
       "quand": "2026-10-16T14:30",
-      "statut": "planifie",
-      "caption_fb": "Deep House Music au Le Chanzy : samedi 17 octobre, à partir de 21h."
+      "statut": "publie",
+      "caption_fb": "Deep House Music au Le Chanzy : samedi 17 octobre, à partir de 21h.",
+      "fb_post_id": "985111601348027_122134827069227974",
+      "fb_done": true,
+      "ig_media_id": "18448897372123524",
+      "ig_done": true
     },
     {
       "id": "2026-10-16-deep-house-music-le-chanzy-story",
@@ -322,7 +326,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-16-deep-house-music-le-chanzy-story.jpg",
       "caption": "Story Deep House Music, Le Chanzy, samedi 17 octobre",
       "quand": "2026-10-16T14:35",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1390654479463634",
+      "fb_done": true,
+      "ig_media_id": "17876547975634339",
+      "ig_done": true
     },
     {
       "id": "2026-10-17-deep-house-music-le-chanzy-story-rappel",
