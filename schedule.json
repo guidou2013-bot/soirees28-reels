@@ -448,6 +448,15 @@
       "caption": "Story Soirée Magie et DJ, Cabanoniers, samedi 24 octobre",
       "quand": "2026-10-22T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-24-magie-dj-cabanoniers-story-rappel",
+      "titre": "magie-dj-cabanoniers story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-24-magie-dj-cabanoniers-story-rappel.jpg",
+      "caption": "Story Soirée Magie et DJ, Cabanoniers, samedi 24 octobre",
+      "quand": "2026-10-24T12:00",
+      "statut": "planifie"
     }
   ]
 }
