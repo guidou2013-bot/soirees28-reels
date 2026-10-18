@@ -420,6 +420,15 @@
       "caption": "Story Kalash showcase, OMG Club, vendredi 23 octobre",
       "quand": "2026-10-21T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-23-kalash-showcase-omg-story-rappel",
+      "titre": "kalash-showcase-omg story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-23-kalash-showcase-omg-story-rappel.jpg",
+      "caption": "Story Kalash showcase, OMG Club, vendredi 23 octobre",
+      "quand": "2026-10-23T19:00",
+      "statut": "planifie"
     }
   ]
 }
