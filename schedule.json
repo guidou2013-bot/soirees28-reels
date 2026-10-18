@@ -383,6 +383,15 @@
       "quand": "2026-10-18T19:00",
       "statut": "planifie",
       "caption_fb": "Girl On Mic, first édition, par Cocomoune au Harvey à Chartres : samedi 24 octobre, de 20h à 23h.\nKaraoké 100 % filles : zouk, afro, kompa, rétro 2000-2010. Kim, Soumia, Talina et plus encore.\n15 €, un soft inclus. Places limitées, réservation chez @cocomoune_club."
+    },
+    {
+      "id": "2026-10-18-girl-on-mic-harvey-story",
+      "titre": "girl-on-mic-harvey story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-18-girl-on-mic-harvey-story.jpg",
+      "caption": "Story Girl On Mic, Le Harvey, samedi 24 octobre",
+      "quand": "2026-10-18T19:05",
+      "statut": "planifie"
     }
   ]
 }
