@@ -381,8 +381,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-18-girl-on-mic-harvey-post.jpg",
       "caption": "Girl On Mic, first édition, par Cocomoune au Harvey à Chartres : samedi 24 octobre, de 20h à 23h.\nKaraoké 100 % filles : zouk, afro, kompa, rétro 2000-2010. Kim, Soumia, Talina et plus encore.\n15 €, un soft inclus. Places limitées, réservation chez @cocomoune_club.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #karaokechartres #girlsonly #cocomoune",
       "quand": "2026-10-18T13:21",
-      "statut": "planifie",
-      "caption_fb": "Girl On Mic, first édition, par Cocomoune au Harvey à Chartres : samedi 24 octobre, de 20h à 23h.\nKaraoké 100 % filles : zouk, afro, kompa, rétro 2000-2010. Kim, Soumia, Talina et plus encore.\n15 €, un soft inclus. Places limitées, réservation chez @cocomoune_club."
+      "statut": "publie",
+      "caption_fb": "Girl On Mic, first édition, par Cocomoune au Harvey à Chartres : samedi 24 octobre, de 20h à 23h.\nKaraoké 100 % filles : zouk, afro, kompa, rétro 2000-2010. Kim, Soumia, Talina et plus encore.\n15 €, un soft inclus. Places limitées, réservation chez @cocomoune_club.",
+      "fb_post_id": "985111601348027_122135012013227974",
+      "fb_done": true,
+      "ig_media_id": "18133412500737700",
+      "ig_done": true
     },
     {
       "id": "2026-10-18-girl-on-mic-harvey-story",
@@ -391,7 +395,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-18-girl-on-mic-harvey-story.jpg",
       "caption": "Story Girl On Mic, Le Harvey, samedi 24 octobre",
       "quand": "2026-10-18T13:21",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1139034692037809",
+      "fb_done": true,
+      "ig_media_id": "17958459927254336",
+      "ig_done": true
     },
     {
       "id": "2026-10-24-girl-on-mic-harvey-story-rappel",
@@ -409,8 +417,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-21-kalash-showcase-omg-post.jpg",
       "caption": "Kalash en showcase à l'OMG Club : vendredi 23 octobre, de 22h30 à 5h.\nDJ Claark, JSN, DJ LB. 2 salles, 2 ambiances.\n2 rue Mondetour, Nogent-le-Phaye. Préventes chez @omg_chartres.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #clubchartres #omgclub #kalash",
       "quand": "2026-10-21T19:00",
-      "statut": "planifie",
-      "caption_fb": "Kalash en showcase à l'OMG Club : vendredi 23 octobre, de 22h30 à 5h.\nDJ Claark, JSN, DJ LB. 2 salles, 2 ambiances.\n2 rue Mondetour, Nogent-le-Phaye. Préventes chez @omg_chartres."
+      "statut": "partiel",
+      "caption_fb": "Kalash en showcase à l'OMG Club : vendredi 23 octobre, de 22h30 à 5h.\nDJ Claark, JSN, DJ LB. 2 salles, 2 ambiances.\n2 rue Mondetour, Nogent-le-Phaye. Préventes chez @omg_chartres.",
+      "fb_post_id": "122135012247227974",
+      "fb_done": true
     },
     {
       "id": "2026-10-21-kalash-showcase-omg-story",
@@ -437,8 +447,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-22-magie-dj-cabanoniers-post.jpg",
       "caption": "Soirée Magie et DJ chez Cabanoniers : samedi 24 octobre.\nDe 16h à 18h30 : spectacle de magie, 5 € par enfant, gratuit pour les accompagnants.\nÀ partir de 22h : soirée dansante avec DJ Skyzer. Sans inscription.\n12 allée Prométhée, Chartres.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #cabanoniers",
       "quand": "2026-10-22T19:00",
-      "statut": "planifie",
-      "caption_fb": "Soirée Magie et DJ chez Cabanoniers : samedi 24 octobre.\nDe 16h à 18h30 : spectacle de magie, 5 € par enfant, gratuit pour les accompagnants.\nÀ partir de 22h : soirée dansante avec DJ Skyzer. Sans inscription.\n12 allée Prométhée, Chartres."
+      "statut": "partiel",
+      "caption_fb": "Soirée Magie et DJ chez Cabanoniers : samedi 24 octobre.\nDe 16h à 18h30 : spectacle de magie, 5 € par enfant, gratuit pour les accompagnants.\nÀ partir de 22h : soirée dansante avec DJ Skyzer. Sans inscription.\n12 allée Prométhée, Chartres.",
+      "fb_post_id": "122135012295227974",
+      "fb_done": true
     },
     {
       "id": "2026-10-22-magie-dj-cabanoniers-story",
