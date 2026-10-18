@@ -392,6 +392,15 @@
       "caption": "Story Girl On Mic, Le Harvey, samedi 24 octobre",
       "quand": "2026-10-18T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-24-girl-on-mic-harvey-story-rappel",
+      "titre": "girl-on-mic-harvey story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-24-girl-on-mic-harvey-story-rappel.jpg",
+      "caption": "Story Girl On Mic, Le Harvey, samedi 24 octobre",
+      "quand": "2026-10-24T17:00",
+      "statut": "planifie"
     }
   ]
 }
