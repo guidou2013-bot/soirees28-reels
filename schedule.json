@@ -411,6 +411,15 @@
       "quand": "2026-10-21T19:00",
       "statut": "planifie",
       "caption_fb": "Kalash en showcase à l'OMG Club : vendredi 23 octobre, de 22h30 à 5h.\nDJ Claark, JSN, DJ LB. 2 salles, 2 ambiances.\n2 rue Mondetour, Nogent-le-Phaye. Préventes chez @omg_chartres."
+    },
+    {
+      "id": "2026-10-21-kalash-showcase-omg-story",
+      "titre": "kalash-showcase-omg story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-21-kalash-showcase-omg-story.jpg",
+      "caption": "Story Kalash showcase, OMG Club, vendredi 23 octobre",
+      "quand": "2026-10-21T19:05",
+      "statut": "planifie"
     }
   ]
 }
