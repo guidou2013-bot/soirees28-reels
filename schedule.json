@@ -481,6 +481,15 @@
       "quand": "2026-10-24T19:00",
       "statut": "planifie",
       "caption_fb": "IMPRO NOPAL : mardi 27 octobre, 20h30.\n\nRetrouvez les Endiablés dans un show pimenté 100% improvisé.\n\nEntrée sur consommation.\n\nNOPAL, 3 place Maurice Cazalis, 28 000, Chartres."
+    },
+    {
+      "id": "2026-10-24-impro-nopal-nopal-story",
+      "titre": "impro-nopal-nopal story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-24-impro-nopal-nopal-story.jpg",
+      "caption": "Story IMPRO NOPAL, NOPAL, mardi 27 octobre",
+      "quand": "2026-10-24T19:05",
+      "statut": "planifie"
     }
   ]
 }
