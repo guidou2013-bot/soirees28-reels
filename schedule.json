@@ -490,6 +490,15 @@
       "caption": "Story IMPRO NOPAL, NOPAL, mardi 27 octobre",
       "quand": "2026-10-24T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-27-impro-nopal-nopal-story-rappel",
+      "titre": "impro-nopal-nopal story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-27-impro-nopal-nopal-story-rappel.jpg",
+      "caption": "Story IMPRO NOPAL, NOPAL, mardi 27 octobre",
+      "quand": "2026-10-27T18:30",
+      "statut": "planifie"
     }
   ]
 }
