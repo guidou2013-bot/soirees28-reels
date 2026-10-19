@@ -238,7 +238,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-19-solara-qg-club-story.jpg",
       "caption": "Story Solara, QG Club, jeudi 22 octobre",
       "quand": "2026-10-19T19:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1555834106231766",
+      "fb_done": true,
+      "ig_media_id": "18097682618404303",
+      "ig_done": true
     },
     {
       "id": "2026-10-22-solara-qg-club-story-rappel",
@@ -479,8 +483,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-24-impro-nopal-nopal-post.jpg",
       "caption": "IMPRO NOPAL : mardi 27 octobre, 20h30.\n\nRetrouvez les Endiablés dans un show pimenté 100% improvisé.\n\nEntrée sur consommation.\n\nNOPAL, 3 place Maurice Cazalis, 28 000, Chartres.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #nopal",
       "quand": "2026-10-24T19:00",
-      "statut": "planifie",
-      "caption_fb": "IMPRO NOPAL : mardi 27 octobre, 20h30.\n\nRetrouvez les Endiablés dans un show pimenté 100% improvisé.\n\nEntrée sur consommation.\n\nNOPAL, 3 place Maurice Cazalis, 28 000, Chartres."
+      "statut": "partiel",
+      "caption_fb": "IMPRO NOPAL : mardi 27 octobre, 20h30.\n\nRetrouvez les Endiablés dans un show pimenté 100% improvisé.\n\nEntrée sur consommation.\n\nNOPAL, 3 place Maurice Cazalis, 28 000, Chartres.",
+      "fb_post_id": "122135145387227974",
+      "fb_done": true
     },
     {
       "id": "2026-10-24-impro-nopal-nopal-story",
