@@ -292,10 +292,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-20-dj-rosso-chanzy-bar-post.jpg",
       "caption": "DJ Rosso : vendredi 23 octobre 2026.\n\nChanzy Bar.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #chanzybar",
       "quand": "2026-10-20T19:00",
-      "statut": "partiel",
+      "statut": "publie",
       "caption_fb": "DJ Rosso : vendredi 23 octobre 2026.\n\nChanzy Bar.",
       "fb_post_id": "122134737159227974",
-      "fb_done": true
+      "fb_done": true,
+      "ig_media_id": "17913904200490008",
+      "ig_done": true
     },
     {
       "id": "2026-10-20-dj-rosso-chanzy-bar-story",
@@ -304,7 +306,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-20-dj-rosso-chanzy-bar-story.jpg",
       "caption": "Story DJ Rosso, Chanzy Bar, vendredi 23 octobre",
       "quand": "2026-10-20T19:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "4129067207225130",
+      "fb_done": true,
+      "ig_media_id": "17888387781488240",
+      "ig_done": true
     },
     {
       "id": "2026-10-23-dj-rosso-chanzy-bar-story-rappel",
