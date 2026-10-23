@@ -539,6 +539,15 @@
       "quand": "2026-10-28T19:30",
       "statut": "planifie",
       "caption_fb": "LE PARCOURS DE LA PEUR : samedi 31 octobre, de 18h à 22h.\n\nVenez déguisés, sinon...\n\nEntrée + de 12 ans : 5 €. Déconseillé aux enfants de moins de 12 ans, aux personnes enceintes, cardiaques ou épileptiques.\n\nOrganisé par Les Rats des Chants.\n\nParc de la mairie, 28190 Fontaine-la-Guyon."
+    },
+    {
+      "id": "2026-10-28-parcours-peur-fontaine-story",
+      "titre": "parcours-peur-fontaine story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-parcours-peur-fontaine-story.jpg",
+      "caption": "Story Parcours de la peur, Fontaine-la-Guyon, samedi 31 octobre",
+      "quand": "2026-10-28T19:35",
+      "statut": "planifie"
     }
   ]
 }
