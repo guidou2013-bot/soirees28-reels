@@ -506,7 +506,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-24-magie-dj-cabanoniers-story-rappel.jpg",
       "caption": "Story Soirée Magie et DJ, Cabanoniers, samedi 24 octobre",
       "quand": "2026-10-24T12:00",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1648359383426315",
+      "fb_done": true,
+      "ig_media_id": "18101391329322698",
+      "ig_done": true
     },
     {
       "id": "2026-10-24-impro-nopal-nopal-post",
