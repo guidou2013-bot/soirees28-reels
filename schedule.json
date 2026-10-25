@@ -647,8 +647,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-27-jusqu-a-l-aube-la-casa-tropical-post.jpg",
       "caption": "Jusqu'à l'Aube : 30 octobre, de 2h à 5h.\n\nPsykotik Sound Kartel.\n\nLa Casa Tropical.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #clubchartres #lacasatropical",
       "quand": "2026-10-27T19:00",
-      "statut": "planifie",
-      "caption_fb": "Jusqu'à l'Aube : 30 octobre, de 2h à 5h.\n\nPsykotik Sound Kartel.\n\nLa Casa Tropical."
+      "statut": "partiel",
+      "caption_fb": "Jusqu'à l'Aube : 30 octobre, de 2h à 5h.\n\nPsykotik Sound Kartel.\n\nLa Casa Tropical.",
+      "fb_post_id": "122135758311227974",
+      "fb_done": true
     },
     {
       "id": "2026-10-27-jusqu-a-l-aube-la-casa-tropical-story",
@@ -675,8 +677,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-after-all-cafe-marceau-post.jpg",
       "caption": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #cafemarceau",
       "quand": "2026-10-28T19:00",
-      "statut": "planifie",
-      "caption_fb": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte."
+      "statut": "partiel",
+      "caption_fb": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte.",
+      "fb_post_id": "122135758443227974",
+      "fb_done": true
     },
     {
       "id": "2026-10-28-after-all-cafe-marceau-story",
