@@ -630,6 +630,15 @@
       "caption": "Story BARJ'COMEDY CLUB, THÉÂTRE LE OFF, mardi 3 novembre",
       "quand": "2026-10-31T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-11-03-barj-comedy-club-theatre-l-story-rappel",
+      "titre": "barj-comedy-club-theatre-l story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-03-barj-comedy-club-theatre-l-story-rappel.jpg",
+      "caption": "Story BARJ'COMEDY CLUB, THÉÂTRE LE OFF, mardi 3 novembre",
+      "quand": "2026-11-03T18:30",
+      "statut": "planifie"
     }
   ]
 }
