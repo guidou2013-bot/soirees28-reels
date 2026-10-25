@@ -600,6 +600,15 @@
       "caption": "Story Olga & Colin présentent Un spectacle tout court, Les One du Barj, vendredi 27 novembre",
       "quand": "2026-11-24T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-11-27-olga-colin-presentent-un-s-story-rappel",
+      "titre": "olga-colin-presentent-un-s story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-27-olga-colin-presentent-un-s-story-rappel.jpg",
+      "caption": "Story Olga & Colin présentent Un spectacle tout court, Les One du Barj, vendredi 27 novembre",
+      "quand": "2026-11-27T18:30",
+      "statut": "planifie"
     }
   ]
 }
