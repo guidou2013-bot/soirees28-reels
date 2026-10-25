@@ -619,6 +619,15 @@
       "quand": "2026-10-31T19:00",
       "statut": "planifie",
       "caption_fb": "BARJ'COMEDY CLUB : 3 nov 2026, 20h30.\n\nCAROLINE SEBA - OLGA & COLIN - ALICE - ALFRED H - SIMON.\n\nTHÉÂTRE LE OFF, 10 AV. JEHAN DE BEAUCE, CHARTRES."
+    },
+    {
+      "id": "2026-10-31-barj-comedy-club-theatre-le-off-story",
+      "titre": "barj-comedy-club-theatre-le-off story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-barj-comedy-club-theatre-le-off-story.jpg",
+      "caption": "Story BARJ'COMEDY CLUB, THÉÂTRE LE OFF, mardi 3 novembre",
+      "quand": "2026-10-31T19:05",
+      "statut": "planifie"
     }
   ]
 }
