@@ -677,6 +677,15 @@
       "quand": "2026-10-28T19:00",
       "statut": "planifie",
       "caption_fb": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte."
+    },
+    {
+      "id": "2026-10-28-after-all-cafe-marceau-story",
+      "titre": "after-all-cafe-marceau story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-after-all-cafe-marceau-story.jpg",
+      "caption": "Story After All, Café Marceau, samedi 31 octobre",
+      "quand": "2026-10-28T19:05",
+      "statut": "planifie"
     }
   ]
 }
