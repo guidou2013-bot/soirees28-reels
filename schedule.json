@@ -686,6 +686,15 @@
       "caption": "Story After All, Café Marceau, samedi 31 octobre",
       "quand": "2026-10-28T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-31-after-all-cafe-marceau-story-rappel",
+      "titre": "after-all-cafe-marceau story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-after-all-cafe-marceau-story-rappel.jpg",
+      "caption": "Story After All, Café Marceau, samedi 31 octobre",
+      "quand": "2026-10-31T19:30",
+      "statut": "planifie"
     }
   ]
 }
