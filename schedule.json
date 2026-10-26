@@ -280,7 +280,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-halloween-qg-club-story.jpg",
       "caption": "Story Halloween, QG Club, samedi 31 octobre",
       "quand": "2026-10-26T19:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1615548903646527",
+      "fb_done": true,
+      "ig_media_id": "17931971337442122",
+      "ig_done": true
     },
     {
       "id": "2026-10-31-halloween-qg-club-story-rappel",
@@ -561,10 +565,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-parcours-peur-fontaine-post.jpg",
       "caption": "LE PARCOURS DE LA PEUR : samedi 31 octobre, de 18h à 22h.\n\nVenez déguisés, sinon...\n\nEntrée + de 12 ans : 5 €. Déconseillé aux enfants de moins de 12 ans, aux personnes enceintes, cardiaques ou épileptiques.\n\nOrganisé par Les Rats des Chants.\n\nParc de la mairie, 28190 Fontaine-la-Guyon.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #fontainelaguyon #halloween #parcoursdelapeur",
       "quand": "2026-10-26T19:30",
-      "statut": "partiel",
+      "statut": "publie",
       "caption_fb": "LE PARCOURS DE LA PEUR : samedi 31 octobre, de 18h à 22h.\n\nVenez déguisés, sinon...\n\nEntrée + de 12 ans : 5 €. Déconseillé aux enfants de moins de 12 ans, aux personnes enceintes, cardiaques ou épileptiques.\n\nOrganisé par Les Rats des Chants.\n\nParc de la mairie, 28190 Fontaine-la-Guyon.",
       "fb_post_id": "122135553783227974",
-      "fb_done": true
+      "fb_done": true,
+      "ig_media_id": "18147579157581523",
+      "ig_done": true
     },
     {
       "id": "2026-10-28-parcours-peur-fontaine-story",
@@ -573,7 +579,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-parcours-peur-fontaine-story.jpg",
       "caption": "Story Parcours de la peur, Fontaine-la-Guyon, samedi 31 octobre",
       "quand": "2026-10-26T19:35",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1428499695510274",
+      "fb_done": true,
+      "ig_media_id": "18024755090925420",
+      "ig_done": true
     },
     {
       "id": "2026-10-31-parcours-peur-fontaine-story-rappel",
