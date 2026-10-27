@@ -605,8 +605,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-24-olga-colin-presentent-un-spectacle-post.jpg",
       "caption": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #lesonedubarj",
       "quand": "2026-11-24T19:00",
-      "statut": "planifie",
-      "caption_fb": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj."
+      "statut": "partiel",
+      "caption_fb": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj.",
+      "fb_post_id": "122135944545227974",
+      "fb_done": true
     },
     {
       "id": "2026-11-24-olga-colin-presentent-un-spectacl-story",
@@ -663,10 +665,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-27-jusqu-a-l-aube-la-casa-tropical-post.jpg",
       "caption": "Jusqu'à l'Aube : 30 octobre, de 2h à 5h.\n\nPsykotik Sound Kartel.\n\nLa Casa Tropical.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #clubchartres #lacasatropical",
       "quand": "2026-10-27T19:00",
-      "statut": "partiel",
+      "statut": "publie",
       "caption_fb": "Jusqu'à l'Aube : 30 octobre, de 2h à 5h.\n\nPsykotik Sound Kartel.\n\nLa Casa Tropical.",
       "fb_post_id": "122135758311227974",
-      "fb_done": true
+      "fb_done": true,
+      "ig_media_id": "17975455485153612",
+      "ig_done": true
     },
     {
       "id": "2026-10-27-jusqu-a-l-aube-la-casa-tropical-story",
@@ -675,7 +679,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-27-jusqu-a-l-aube-la-casa-tropical-story.jpg",
       "caption": "Story Jusqu'à l'Aube, La Casa Tropical, vendredi 30 octobre",
       "quand": "2026-10-27T19:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1796413141636967",
+      "fb_done": true,
+      "ig_media_id": "18105347228639227",
+      "ig_done": true
     },
     {
       "id": "2026-10-30-jusqu-a-l-aube-la-casa-tro-story-rappel",
