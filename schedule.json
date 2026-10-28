@@ -744,6 +744,15 @@
       "caption": "Story La Copinerie de l'Horreur, QG Club, jeudi 29 octobre",
       "quand": "2026-10-28T21:55",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-29-copinerie-horreur-qg-story-rappel",
+      "titre": "Copinerie Horreur QG story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-29-copinerie-horreur-qg-story-rappel.jpg",
+      "caption": "Story La Copinerie de l'Horreur, QG Club, jeudi 29 octobre",
+      "quand": "2026-10-29T18:30",
+      "statut": "planifie"
     }
   ]
 }
