@@ -795,6 +795,15 @@
       "caption": "Story Zombie Land, QG Club, vendredi 30 octobre",
       "quand": "2026-10-30T19:00",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-31-girls-in-da-mix-psk-story-rappel",
+      "titre": "Girls in da Mix PSK story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-girls-in-da-mix-psk-story-rappel.jpg",
+      "caption": "Story Girls in da Mix, Mainvilliers, samedi 31 octobre",
+      "quand": "2026-10-31T16:00",
+      "statut": "planifie"
     }
   ]
 }
