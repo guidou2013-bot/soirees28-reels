@@ -812,8 +812,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-girls-in-da-mix-psk-post.jpg",
       "caption": "GIRLS IN DA MIX : samedi 31 octobre, de 20h à 2h, à Mainvilliers.\n\nAu programme : Beyondrey (selecta dub, warm up), Josy Fullvibes (tribal techno), Ines Auffray (techno indus) et Solar (hardtechno, closing).\n\nPrévente : 15 €, places limitées, sur HelloAsso (Psykotik Sound Kartel).\n\n1 avenue Victor Hugo, 28300 Mainvilliers. Buvette en salle.\n\nUn événement de l'association PSK, @psykotik_sound_kartel_\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #mainvilliers #techno #halloween",
       "quand": "2026-10-28T22:35",
-      "statut": "planifie",
-      "caption_fb": "GIRLS IN DA MIX : samedi 31 octobre, de 20h à 2h, à Mainvilliers.\n\nAu programme : Beyondrey (selecta dub, warm up), Josy Fullvibes (tribal techno), Ines Auffray (techno indus) et Solar (hardtechno, closing).\n\nPrévente : 15 €, places limitées, sur HelloAsso (Psykotik Sound Kartel).\n\n1 avenue Victor Hugo, 28300 Mainvilliers. Buvette en salle.\n\nUn événement de l'association PSK."
+      "statut": "publie",
+      "caption_fb": "GIRLS IN DA MIX : samedi 31 octobre, de 20h à 2h, à Mainvilliers.\n\nAu programme : Beyondrey (selecta dub, warm up), Josy Fullvibes (tribal techno), Ines Auffray (techno indus) et Solar (hardtechno, closing).\n\nPrévente : 15 €, places limitées, sur HelloAsso (Psykotik Sound Kartel).\n\n1 avenue Victor Hugo, 28300 Mainvilliers. Buvette en salle.\n\nUn événement de l'association PSK.",
+      "fb_post_id": "985111601348027_122136049083227974",
+      "fb_done": true,
+      "ig_media_id": "17906505579348854",
+      "ig_done": true
     },
     {
       "id": "2026-10-28-girls-in-da-mix-psk-story",
@@ -822,7 +826,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-girls-in-da-mix-psk-story.jpg",
       "caption": "Story Girls in da Mix, Mainvilliers, samedi 31 octobre",
       "quand": "2026-10-28T22:36",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1102790899042580",
+      "fb_done": true,
+      "ig_media_id": "17926704099201084",
+      "ig_done": true
     }
   ]
 }
