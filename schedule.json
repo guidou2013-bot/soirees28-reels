@@ -772,6 +772,15 @@
       "caption": "Story Zombie Land, QG Club, vendredi 30 octobre",
       "quand": "2026-10-29T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-10-30-zombie-land-qg-story-rappel",
+      "titre": "Zombie Land QG story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-30-zombie-land-qg-story-rappel.jpg",
+      "caption": "Story Zombie Land, QG Club, vendredi 30 octobre",
+      "quand": "2026-10-30T19:00",
+      "statut": "planifie"
     }
   ]
 }
