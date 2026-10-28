@@ -763,6 +763,15 @@
       "quand": "2026-10-29T19:00",
       "statut": "planifie",
       "caption_fb": "ZOMBIE LAND au QG Club : vendredi 30 octobre, de minuit à 6h.\n\nMusic et light : Nala et Niklaas.\n\nEntrée + 1 conso : 10 €. Avant 1h : entrée gratuite et conso à 5 €.\n\nQG Club, 1 rue de la République, 28300 Saint-Prest."
+    },
+    {
+      "id": "2026-10-29-zombie-land-qg-story",
+      "titre": "Zombie Land QG story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-29-zombie-land-qg-story.jpg",
+      "caption": "Story Zombie Land, QG Club, vendredi 30 octobre",
+      "quand": "2026-10-29T19:05",
+      "statut": "planifie"
     }
   ]
 }
