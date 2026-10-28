@@ -701,10 +701,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-28-after-all-cafe-marceau-post.jpg",
       "caption": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #cafemarceau",
       "quand": "2026-10-28T19:00",
-      "statut": "partiel",
+      "statut": "publie",
       "caption_fb": "After All : samedi 31 octobre, de 2h à 5h.\n\nCafé Marceau.\n\npaf 12 € 1 conso offerte.",
       "fb_post_id": "122135758443227974",
-      "fb_done": true
+      "fb_done": true,
+      "ig_media_id": "18147921772574568",
+      "ig_done": true
     },
     {
       "id": "2026-10-28-after-all-cafe-marceau-story",
