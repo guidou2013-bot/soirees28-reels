@@ -841,6 +841,15 @@
       "quand": "2026-11-04T19:00",
       "statut": "planifie",
       "caption_fb": "WARM-UP L'Paille à Sonique x Au Bar'bu : samedi 7 novembre, ouverture des portes à 19h.\n\nConcert metal : Stoned, with supports Ravn et Halbrane.\n\nAu Bar'bu, 7 bis rue Jean Perrin, 28600 Luisant."
+    },
+    {
+      "id": "2026-11-04-warm-up-barbu-story",
+      "titre": "Warm-Up Barbu story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-04-warm-up-barbu-story.jpg",
+      "caption": "Story Warm-Up Au Bar'bu, Luisant, samedi 7 novembre",
+      "quand": "2026-11-04T19:05",
+      "statut": "planifie"
     }
   ]
 }
