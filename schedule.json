@@ -850,6 +850,15 @@
       "caption": "Story Warm-Up Au Bar'bu, Luisant, samedi 7 novembre",
       "quand": "2026-11-04T19:05",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-11-07-warm-up-barbu-story-rappel",
+      "titre": "Warm-Up Barbu story rappel",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-07-warm-up-barbu-story-rappel.jpg",
+      "caption": "Story Warm-Up Au Bar'bu, Luisant, samedi 7 novembre",
+      "quand": "2026-11-07T18:30",
+      "statut": "planifie"
     }
   ]
 }
