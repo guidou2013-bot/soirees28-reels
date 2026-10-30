@@ -879,8 +879,10 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-04-dj-greg-chanzy-bar-post.jpg",
       "caption": "DJ Greg au Chanzy Bar : samedi 7 novembre.\n\nChanzy Bar.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #chanzybar",
       "quand": "2026-11-04T19:30",
-      "statut": "planifie",
-      "caption_fb": "DJ Greg au Chanzy Bar : samedi 7 novembre.\n\nChanzy Bar."
+      "statut": "partiel",
+      "caption_fb": "DJ Greg au Chanzy Bar : samedi 7 novembre.\n\nChanzy Bar.",
+      "fb_post_id": "122136189789227974",
+      "fb_done": true
     },
     {
       "id": "2026-11-04-dj-greg-chanzy-bar-story",
