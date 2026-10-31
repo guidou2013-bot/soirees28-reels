@@ -596,7 +596,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-parcours-peur-fontaine-story-rappel.jpg",
       "caption": "Story Parcours de la peur, Fontaine-la-Guyon, samedi 31 octobre",
       "quand": "2026-10-31T12:00",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "2582012438930800",
+      "fb_done": true,
+      "ig_media_id": "18468568927141282",
+      "ig_done": true
     },
     {
       "id": "2026-11-24-olga-colin-presentent-un-spectacle-post",
