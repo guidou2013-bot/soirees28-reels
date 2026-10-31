@@ -643,10 +643,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-barj-comedy-club-theatre-le-off-post.jpg",
       "caption": "BARJ'COMEDY CLUB : 3 nov 2026, 20h30.\n\nCAROLINE SEBA - OLGA & COLIN - ALICE - ALFRED H - SIMON.\n\nTHÉÂTRE LE OFF, 10 AV. JEHAN DE BEAUCE, CHARTRES.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #theatreleoff",
       "quand": "2026-10-31T19:00",
-      "statut": "partiel",
+      "statut": "publie",
       "caption_fb": "BARJ'COMEDY CLUB : 3 nov 2026, 20h30.\n\nCAROLINE SEBA - OLGA & COLIN - ALICE - ALFRED H - SIMON.\n\nTHÉÂTRE LE OFF, 10 AV. JEHAN DE BEAUCE, CHARTRES.",
       "fb_post_id": "122135748351227974",
-      "fb_done": true
+      "fb_done": true,
+      "ig_media_id": "17980186505917909",
+      "ig_done": true
     },
     {
       "id": "2026-10-31-barj-comedy-club-theatre-le-off-story",
@@ -655,7 +657,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-barj-comedy-club-theatre-le-off-story.jpg",
       "caption": "Story BARJ'COMEDY CLUB, THÉÂTRE LE OFF, mardi 3 novembre",
       "quand": "2026-10-31T19:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "976445048846471",
+      "fb_done": true,
+      "ig_media_id": "18345668854252956",
+      "ig_done": true
     },
     {
       "id": "2026-11-03-barj-comedy-club-theatre-l-story-rappel",
@@ -740,7 +746,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-after-all-cafe-marceau-story-rappel.jpg",
       "caption": "Story After All, Café Marceau, samedi 31 octobre",
       "quand": "2026-10-31T19:30",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1595053445189800",
+      "fb_done": true,
+      "ig_media_id": "18100173053536103",
+      "ig_done": true
     },
     {
       "id": "2026-10-28-copinerie-horreur-qg-post",
@@ -929,8 +939,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-le-defi-du-cocktail-mystere-le-cha-post.jpg",
       "caption": "Le défi du cocktail mystère au Chanzy : samedi 31 octobre.\n\nLe Chanzy présente : osez-vous découvrir sa composition ?\n\nLe Chanzy.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barchartres #lechanzy",
       "quand": "2026-10-31T20:00",
-      "statut": "planifie",
-      "caption_fb": "Le défi du cocktail mystère au Chanzy : samedi 31 octobre.\n\nLe Chanzy présente : osez-vous découvrir sa composition ?\n\nLe Chanzy."
+      "statut": "publie",
+      "caption_fb": "Le défi du cocktail mystère au Chanzy : samedi 31 octobre.\n\nLe Chanzy présente : osez-vous découvrir sa composition ?\n\nLe Chanzy.",
+      "fb_post_id": "985111601348027_122136366423227974",
+      "fb_done": true,
+      "ig_media_id": "18411805381207134",
+      "ig_done": true
     },
     {
       "id": "2026-10-31-le-defi-du-cocktail-mystere-le-ch-story",
@@ -939,7 +953,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-10-31-le-defi-du-cocktail-mystere-le-ch-story.jpg",
       "caption": "Story Le défi du cocktail mystère, Le Chanzy, samedi 31 octobre",
       "quand": "2026-10-31T20:05",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1846276343070593",
+      "fb_done": true,
+      "ig_media_id": "18083775893711873",
+      "ig_done": true
     }
   ]
 }
