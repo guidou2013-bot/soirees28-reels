@@ -1234,10 +1234,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-09-dub-tekno-nopal-post.jpg",
       "caption": "DUB TEKNO au Nopal : mardi 10 novembre.\nGuest surprise.\nNopal powered by PSK.\nLe Nopal, 3 place Maurice Cazalis, Chartres.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #nopal #dubtechno",
       "quand": "2026-11-09T18:00",
-      "statut": "planifie",
+      "statut": "publie",
       "caption_fb": "DUB TEKNO au Nopal : mardi 10 novembre.\nGuest surprise.\nNopal powered by PSK.\nLe Nopal, 3 place Maurice Cazalis, Chartres.",
-      "fb_error": "POST 985111601348027/photos -> HTTP 400: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image requise\",\"error_user_msg\":\"Assurez-vous que votre publication sur la Page comporte une image pouvant \\",
-      "ig_error": "POST 17841472721846283/media -> HTTP 400: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Le t\\u00e9l\\u00e9chargement du contenu multim\\u00e9dia a \\u00e9chou\\u00e9. L\\u2019UR"
+      "ig_done": true,
+      "fb_done": true,
+      "ig_media_id": "17893526691455409",
+      "fb_post_id": "985111601348027_122137232877227974"
     },
     {
       "id": "2026-11-09-dub-tekno-nopal-story",
@@ -1246,10 +1248,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-09-dub-tekno-nopal-story.jpg",
       "caption": "DUB TEKNO au Nopal : mardi 10 novembre.\nGuest surprise.\nNopal powered by PSK.\nLe Nopal, 3 place Maurice Cazalis, Chartres.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #nopal #dubtechno",
       "quand": "2026-11-09T18:00",
-      "statut": "planifie",
+      "statut": "publie",
       "caption_fb": "DUB TEKNO au Nopal : mardi 10 novembre.\nGuest surprise.\nNopal powered by PSK.\nLe Nopal, 3 place Maurice Cazalis, Chartres.",
-      "fb_error": "POST 985111601348027/photos -> HTTP 400: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image requise\",\"error_user_msg\":\"Assurez-vous que votre publication sur la Page comporte une image pouvant \\",
-      "ig_error": "POST 17841472721846283/media -> HTTP 400: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Le t\\u00e9l\\u00e9chargement du contenu multim\\u00e9dia a \\u00e9chou\\u00e9. L\\u2019UR"
+      "ig_done": true,
+      "fb_done": true,
+      "ig_media_id": "18170975308464655",
+      "fb_post_id": "2455823071621594"
     }
   ]
 }
