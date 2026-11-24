@@ -1325,8 +1325,12 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-23-olga-colin-identite-post.jpg",
       "caption": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj.\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #lesonedubarj",
       "quand": "2026-11-23T23:20",
-      "statut": "planifie",
-      "caption_fb": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj."
+      "statut": "publie",
+      "caption_fb": "Olga & Colin présentent Un spectacle tout court : 27 novembre 2026, à 20h30.\n\nLes One du Barj.",
+      "fb_post_id": "985111601348027_122138570547227974",
+      "fb_done": true,
+      "ig_media_id": "18121138184108228",
+      "ig_done": true
     },
     {
       "id": "2026-11-23-olga-colin-identite-story",
@@ -1335,7 +1339,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-23-olga-colin-identite-story.jpg",
       "caption": "Story Olga & Colin présentent Un spectacle tout court, Les One du Barj, vendredi 27 novembre",
       "quand": "2026-11-23T23:25",
-      "statut": "planifie"
+      "statut": "publie",
+      "fb_post_id": "1544849634067851",
+      "fb_done": true,
+      "ig_media_id": "18122290469095453",
+      "ig_done": true
     },
     {
       "id": "2026-11-27-olga-colin-identite-rappel",
