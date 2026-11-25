@@ -1417,6 +1417,15 @@
       "caption": "Story Drag Show au Bar'Bu, Luisant, vendredi 27 novembre 19h",
       "quand": "2026-11-27T17:30",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-11-25-ultime-connexion",
+      "titre": "ultime-connexion",
+      "type": "photo",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-25-ultime-connexion.jpg",
+      "caption": "Vendredi 27 novembre, 20h · Ultime, Nogent-le-Phaye\nULTIME Connexion\nInfos : @ultimeclub28\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #ultime",
+      "quand": "2026-11-25T21:45",
+      "statut": "planifie"
     }
   ]
 }
