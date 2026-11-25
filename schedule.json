@@ -1435,6 +1435,15 @@
       "caption": "Vendredi 27 novembre, 20h · Ultime, Nogent-le-Phaye\nULTIME Connexion\nInfos : @ultimeclub28\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #ultime",
       "quand": "2026-11-25T21:47",
       "statut": "planifie"
+    },
+    {
+      "id": "2026-11-25-kitsunn-comptoir",
+      "titre": "kitsunn-comptoir",
+      "type": "photo",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-25-kitsunn-comptoir.jpg",
+      "caption": "Vendredi 27 novembre, 21h30 · Le Comptoir de la Mairie, Chartres\nSoirée DJ avec Kitsunn\nInfos : @le_comptoirdelamairie\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #lecomptoirdelamairie",
+      "quand": "2026-11-25T21:50",
+      "statut": "planifie"
     }
   ]
 }
