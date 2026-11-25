@@ -1490,10 +1490,11 @@
       "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-25-black-friday-smile-story.jpg",
       "caption": "Vendredi 27 et samedi 28 novembre · Bar Le Smile, Chartres\nBLACK FRIDAY AU BAR LE SMILE : -20 % sur chaque consommation\nInfos : @bar_le_smile\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #barlesmile",
       "quand": "2026-11-25T21:57",
-      "statut": "partiel",
+      "statut": "publie",
       "fb_post_id": "1466782174845764",
       "fb_done": true,
-      "ig_error": "POST 17841472721846283/media_publish -> HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"code\":9007,\"type\":\"OAuthException\",\"error_subcode\":2207027,\"is_transient\":false,\"error_user_msg\":\"Le contenu n’est pas prêt à être publié, patientez un peu\",\"error_user_title\":\"Impossible de publier\",\""
+      "ig_media_id": "18138721858677397",
+      "ig_done": true
     },
     {
       "id": "2026-11-25-meta-morphoses",
