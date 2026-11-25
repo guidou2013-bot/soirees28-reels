@@ -1391,6 +1391,15 @@
       "quand": "2026-11-25T12:07",
       "statut": "planifie",
       "caption_fb": "Drag Show au Bar'Bu : vendredi 27 novembre 2026, à 19h, à Luisant.\n\nLe PapaPaillettes Cabaret avec Sarah Médina, Molly Mercury et Ily Sina. Du drag, du chant et des paillettes !\n\nAu Bar'Bu, 7 bis rue Jean Perrin, Luisant."
+    },
+    {
+      "id": "2026-11-25-drag-show-luisant-story",
+      "titre": "drag-show-luisant-story",
+      "type": "story",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-25-drag-show-luisant-story.jpg",
+      "caption": "Story Drag Show au Bar'Bu, Luisant, vendredi 27 novembre 19h",
+      "quand": "2026-11-25T12:12",
+      "statut": "planifie"
     }
   ]
 }
