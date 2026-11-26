@@ -1521,6 +1521,15 @@
       "fb_done": true,
       "ig_media_id": "17914255476308160",
       "ig_done": true
+    },
+    {
+      "id": "2026-11-26-honesto-comptoir",
+      "titre": "honesto-comptoir",
+      "type": "photo",
+      "image": "https://guidou2013-bot.github.io/soirees28-reels/media/2026-11-26-honesto-comptoir.jpg",
+      "caption": "Samedi 28 novembre, 22h · Le Comptoir de la Mairie, Chartres\nSoirée House avec Honesto\nInfos : @le_comptoirdelamairie\n\n#chartres #soireeschartres #chartres28 #eureetloir #sortirachartres #soireechartres #lecomptoirdelamairie",
+      "quand": "2026-11-26T13:50",
+      "statut": "planifie"
     }
   ]
 }
